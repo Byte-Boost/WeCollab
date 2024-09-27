@@ -1,6 +1,6 @@
 <h1 align="center">🎩WeCollab</h1>
    <p align="center">
-   <image alt="header-WeCollab-main" src="https://i.imgur.com/RXakrvx.png"/>   
+   <image alt="header-WeCollab-main" src="https://github.com/user-attachments/assets/3a639498-8b49-4d4f-a8d7-f6d6c29ba4e4"/>   
    </p>
 <hr>    
   <p align="center">
@@ -175,8 +175,8 @@
 
   
    ### ![Static Badge](https://img.shields.io/badge/Dev_Team-brightgreen) - Vitor : 
-   <!--[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]()
-   [<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">]()
-   [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">]()
-   -->
+   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://br.linkedin.com/in/vitor-henrique-saborito-216219268)
+   [<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">](https://github.com/VituuSaborito )
+   
+
   
