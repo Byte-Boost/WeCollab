@@ -75,7 +75,7 @@
  <summary>Sprints</summary>
   
 ## Sprint 1   
-<!--<image alt="sprint1gif" src=""/>-->
+https://github.com/user-attachments/assets/edd43686-c938-415e-be85-6096a7789b4c
 
 ## Sprint 2
 <!--<image alt="sprint2gif" src=""/>-->
