@@ -45,13 +45,14 @@
    
 | Rank | Prioridade | US | Requisito Funcional | Estimativa (horas) | Sprint | Critério de aceitação |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Alta | Como funcionário, quero que a base da plataforma seja segura e funcional, para garantir que meus dados estejam protegidos e acessíveis de maneira eficiente. | RF7 | 20 | 1 | Como usuario, quero que a base da plataforma seja segura, estável e rápida, para garantir que meus dados sejam protegidos e que eu possa acessar as funcionalidades sem interrupções ou falhas. |
-| 2 | Alta | Como funcionário, quero poder visualizar, criar e acompanhar tickets na página de tickets, para registrar e monitorar problemas ou solicitações de forma eficiente. | RF2 | 15 | 1 | Como usuário, quero um botão para criar  tickets, para registrar problemas ou pedidos facilmente. |
-| 3 | Média | Como funcionário, quero acessar uma página principal com atalhos para tickets e documentos, para visualizar rapidamente informações importantes e navegar facilmente no sistema. | RF4 | 15 | 1 | Como usuário, quero ver a página principal com informações importantes e links rápidos, para acessar tickets e produtividade de forma fácil. |
-| 4 | Média | Como administrador, quero acessar um painel de administração com controle de usuários e permissões, para gerenciar as contas e definir quem pode acessar diferentes áreas do sistema. | RF1 | 15 | 2 | Como administrador, quero ver uma lista de usuários com a opção de editar suas permissões e opção de criar novos usuários, para garantir que apenas usuários autorizados tenham acesso a certas funcionalidades. |
-| 5 | Média | Como gestor , quero acessar uma área de gestão de pessoas onde posso visualizar, editar e gerenciar informações dos funcionários, para garantir que os dados de pessoal estejam sempre atualizados e acessíveis. | RF1 | 15 | 2 | Como gestor, quero ver uma lista de funcionários com opções de visualizar e editar informações pessoais, adicionar e remover novos usuários, para manter os dados dos colaboradores atualizados e o quadro atual da empresa atualizado. |
-| 6 | Média | Como gestor, quero visualizar relatórios e um dashboard com métricas da equipe, para acompanhar o progresso e tomar decisões baseadas em dados. | RF8 | 15 | 3 | Como usuario, quero ver um dashboard com gráficos e métricas sobre aprodutividade da equipe, para monitorar o desempenho. |
-| 7 | Média | Como funcionário, quero acessar um chat interno na plataforma, para me comunicar com outros colegas . | RF3 | 12 | 4 | Como usuário, quero enviar e receber mensagens de outros funcionários, para facilitar a comunicação rápida e direta dentro da plataforma. |
+| 1 | Alta | Como funcionário, quero poder visualizar, criar e acompanhar tickets na página de tickets, para registrar e monitorar problemas ou solicitações de forma eficiente. | RF2 | 15 | 1 | Como usuário, quero um botão para criar tickets, para registrar problemas ou pedidos facilmente. |
+| 2 | Alta | Como funcionário, quero acessar uma página principal com atalhos para tickets e documentos, para visualizar rapidamente informações importantes e navegar facilmente no sistema. | RF4 | 15 | 1 | Como usuário, quero ver a página principal com informações importantes e links rápidos, para acessar tickets e produtividade de forma fácil. |
+| 3 | Alta | Como administrador, quero acessar um painel de administração com controle de usuários e permissões, para definir quem pode acessar diferentes áreas do sistema. | RF1 | 20 | 2 | Como administrador, quero ver uma lista de usuários com a opção de editar suas permissões e opção de criar novos usuários, para garantir que apenas usuários autorizados tenham acesso a certas funcionalidades. |
+| 4 | Alta | Como gestor, quero fazer upload de documentos, para que os usuários possam acessar documentação e normas da empresa. | RF5 | 20 | 2 | Como gestor, quero fazer uploads de documentos para que os funcionários consigam acessar as normas e documentos da empresa de maneira fácil.  |
+| 5 | Média | Como usuário, quero fazer download de documentos, para que eu possa verificar normas e documentaçõe da empresa. | RF8 | 15 | 2 | Como ususário quero fazer downloads de forma rápida e intuitiva, para que eu possa trabalhar de acordo com as normas da empresa. |
+| 6 | Alta | Como usuário, quero trasnferir tickets para outras áreas e usuários, para que possamos organizar as tarefas da empresa. | RF3 | 15 | 2 | Como usuário quero transferir tickets para outras áreas e pessoas para que as tarefas sejam executadas com rapidez e eficiencia.  |
+| 7 | Alta | Como gestor, quero visualizar relatórios e um dashboard com métricas da equipe, para acompanhar o progresso e tomar decisões baseadas em dados. | RF7 | 15 | 3 | Como usuario, quero ver um dashboard com gráficos e métricas sobre aprodutividade da equipe, para monitorar o desempenho . |
+| 8 | Alta | Como funcionário, quero acessar um chat interno na plataforma, para me comunicar com outros colegas . | RF3 | 12 | 4 | Como usuário, quero enviar e receber mensagens de outros funcionários, para facilitar a comunicação rápida e direta dentro da plataforma. |
 
 </details>
 
@@ -60,10 +61,22 @@
    
 | Rank | Prioridade | Requisito | Tarefa |
 | --- | --- | --- | --- |
-| 1 | Alta | RF4 | Como usuário, quero que a arquitetura da plataforma esteja definida, para garantir que apenas usuários autorizados possam acessar o sistema. |
-| 2 | Alta | RF2 | Como usuário, quero um botão para criar tickets, para registrar problemas ou pedidos facilmente. |
-| 3 | Alta | RF3 | Como usuário, quero ver a página principal com informações importantes e links rápidos, para acessar tickets e produtividade de forma fácil. |
-<!-- EXEMPLO:     | 1 | Alta | RF#01 | Desenvolvimento de interface gráfica para input de arquivos xlsx. | -->
+| 1 | Alta | RF4 | Estruturação do projeto |
+| 2 | Alta | RF2 | Pagina de Tickets |
+| 3 | Alta | RF3 | Pagina Principal |
+
+
+</details>
+
+<details>
+ <summary>Sprint-2 Backlog</summary>
+   
+| Rank | Prioridade | Requisito | Tarefa |
+| --- | --- | --- | --- |
+| 1 | Alta | RF1 | Controle e permissão de Usuários |
+| 2 | Alta | RF5 | Página de Upload de Documentos |
+| 3 | Alta | RF8 | Página de Download de Documentos |
+| 4 | Alta | RF3 | Transferência de Ticket entre áreas e usuários |
 
 
 </details>
@@ -174,7 +187,7 @@ https://github.com/user-attachments/assets/edd43686-c938-415e-be85-6096a7789b4c
    [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nao_sou_felps)
 
   
-   ### ![Static Badge](https://img.shields.io/badge/Dev_Team-brightgreen) - Vitor : 
+   ### ![Static Badge](https://img.shields.io/badge/Dev_Team-brightgreen) - Vitor Saborito: 
    [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://br.linkedin.com/in/vitor-henrique-saborito-216219268)
    [<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">](https://github.com/VituuSaborito )
    
