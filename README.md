@@ -91,7 +91,7 @@
 https://github.com/user-attachments/assets/edd43686-c938-415e-be85-6096a7789b4c
 
 ## Sprint 2
-<!--<image alt="sprint2gif" src=""/>-->
+https://github.com/user-attachments/assets/ef756788-9083-42d3-bd5d-7b94ecc622cf
 
 ## Sprint 3
 <!--<image alt="sprint3gif" src=""/>-->
@@ -148,6 +148,39 @@ https://github.com/user-attachments/assets/edd43686-c938-415e-be85-6096a7789b4c
 <span id="como-usar">
    
 ## Como utilizar
+
+Requisitos :
+ - Node.js v20.6.0 ou superior
+ - MySQL 8.0
+ - Git
+
+#### Preparando o projeto
+1. Abra o cmd na pasta aonde deseja instalar o projeto
+2. Execute o comando 
+```bash
+git clone https://github.com/Byte-Boost/WeCollab
+```
+3. Entre no diretório WeCollab/Backend_WeCollab
+4. Crie um arquivo chamado ".env"
+5. Abra este arquivo com seu editor de texto de preferência, e preencha o mesmo seguindo o modelo ".env.example", presente no mesmo diretório.
+6. Repita os passos 4 e 5 no diretório WeCollab/Frontend_WeCollab
+
+### Executando o projeto
+#### Backend
+1. Certifique-se que seu serviço MySQL esteja rodando
+2. Abra o cmd na pasta WeCollab/Backend_WeCollab
+3. Rode os comandos: 
+```
+npm install
+npm run start
+```
+#### Frontend
+1. Abra o cmd na pasta WeCollab/Frontend_WeCollab
+2. Rode os comandos: 
+```
+npm install
+npm run dev
+```
 
 
 <span id="equipe">
