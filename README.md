@@ -81,6 +81,16 @@
 
 </details>
 
+<details>
+ <summary>Sprint-3 Backlog</summary>
+   
+| Rank | Prioridade | Requisito | Tarefa |
+| --- | --- | --- | --- |
+| 1 | Alta | RF7 | Página de Dashboard |
+
+
+</details>
+
 ## 🎥 Video Apresentação
 <!--<strong>Para assistir a nossa apresentação clique no <a href="">Link</a></strong>-->
 
@@ -91,10 +101,10 @@
 https://github.com/user-attachments/assets/edd43686-c938-415e-be85-6096a7789b4c
 
 ## Sprint 2
-https://github.com/user-attachments/assets/ef756788-9083-42d3-bd5d-7b94ecc622cf
+https://github.com/user-attachments/assets/1dd20bcd-0c3f-430b-8023-cca2df1b0b9c
 
 ## Sprint 3
-<!--<image alt="sprint3gif" src=""/>-->
+https://github.com/user-attachments/assets/29b0217d-5299-4304-b999-4bf4bdfe83b8
 
 ## Sprint 4
 <!--<image alt="sprint4gif" src=""/>-->
