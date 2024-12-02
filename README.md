@@ -91,8 +91,17 @@
 
 </details>
 
+<details>
+ <summary>Sprint-4 Backlog</summary>
+   
+| Rank | Prioridade | Requisito | Tarefa |
+| --- | --- | --- | --- |
+| 1 | Alta | RF7 | Graficos por Excel no Dashboard |
+
+
+</details>
+
 ## 🎥 Video Apresentação
-<!--<strong>Para assistir a nossa apresentação clique no <a href="">Link</a></strong>-->
 
 <details>
  <summary>Sprints</summary>
@@ -107,7 +116,7 @@ https://github.com/user-attachments/assets/1dd20bcd-0c3f-430b-8023-cca2df1b0b9c
 https://github.com/user-attachments/assets/29b0217d-5299-4304-b999-4bf4bdfe83b8
 
 ## Sprint 4
-<!--<image alt="sprint4gif" src=""/>-->
+https://github.com/user-attachments/assets/d39d256f-97ea-44be-9191-89ace7ae8d96
 
 </details>
 
@@ -219,7 +228,7 @@ npm run dev
    [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/markos_vn2)
 
 
-   ### ![Static Badge](https://img.shields.io/badge/Dev_Team-brightgreen) - Sandro Pimentel: 
+   ### ![Static Badge](https://img.shields.io/badge/Dev_Team-brightgreen) - Sandro Pimentel : 
    [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sandro-roberto-pimentel-junior-1287a3254/)
    [<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Sandro-Pimentel)
    
@@ -230,7 +239,7 @@ npm run dev
    [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nao_sou_felps)
 
   
-   ### ![Static Badge](https://img.shields.io/badge/Dev_Team-brightgreen) - Vitor Saborito: 
+   ### ![Static Badge](https://img.shields.io/badge/Dev_Team-brightgreen) - Vitor Saborito : 
    [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://br.linkedin.com/in/vitor-henrique-saborito-216219268)
    [<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">](https://github.com/VituuSaborito )
    
